@@ -5,3 +5,5 @@ A pet owner can register at a pet hospital and arrange for an appointment with a
 During a workday, a vet may see more than one pet. The hospital itself hires 5 vets and they work different day or night shifts.
 
 The hospital must know the address as to where to send the bill. Each appointment will be billed separately. 
+
+Advanced 1: A vet may schedule a follow up appointment.A vet will also have to know whether an appointment is preceded or followed by a appointment, in case the treatment requires more than one appontment.
