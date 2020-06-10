@@ -4,3 +4,6 @@ A user can be a member of a library. He can borrow up to 4 books, and the due da
 
 Assume: There's only one copy of each book.
 
+Advanced: What if there are multiple copies of a book?
+
+Advanced 2: What if there are multiple editions of a book?
