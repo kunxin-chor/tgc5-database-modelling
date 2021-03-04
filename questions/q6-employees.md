@@ -7,5 +7,5 @@ loyalty.
 Every employee has a reporting superior to whom they report to. Every year the employee will meet with its reporting superior to conduct a review, and the superior will assign a
 rank for the employee's performance for the year
 
-Employees can also belong to a task force, which is a team of people working from different task force. Within a task force
+Employees can also belong to a task force, which is a team of people working from different departments. Within a task force
 each team member will have a role.
